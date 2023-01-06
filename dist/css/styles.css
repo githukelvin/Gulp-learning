@@ -1,0 +1,11 @@
+.grid {
+  height: 100px; }
+  .grid__sidebar {
+    height: 100%;
+    background-color: #fff; }
+  .grid__content {
+    height: 100%;
+    background-color: #fff; }
+
+body {
+  background-color: #eeccff; }

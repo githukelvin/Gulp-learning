@@ -1,0 +1,14 @@
+.grid{
+    height: 100px;
+    &__sidebar{
+        height: 100%;
+        background-color: #fff;
+    }
+    &__content{
+        height: 100%;
+        background-color: #fff;
+    }
+}
+body{
+    background-color: hsl(280,100%,90%);
+}
