@@ -2,10 +2,10 @@
 
 git init
 
-read  file
+
 
 echo "Enter the file to be pushed"
-
+read  file
 git add $file
 
 echo "Enter the Commit to Push the Code"
